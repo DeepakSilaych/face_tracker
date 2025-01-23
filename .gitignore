@@ -33,7 +33,9 @@ ENV/
 .DS_Store
 
 # Project specific
-data/*.mp4
-data/*.avi
+# data/*.mp4
+# data/*.avi
+
+
 *.log
 .env
